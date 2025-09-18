@@ -51,7 +51,7 @@ python weather_app.py
 
 📸 Screenshots
 
-<img src="./images/screenshot.png" alt="Instagram Clone Screenshot" width="600">
+<img src="https://github.com/Tushar100700/GUI-based-wearter-update/blob/main/Screenshot%202025-09-18%20154433.png">
 
 🎯 Learning Outcomes
 
